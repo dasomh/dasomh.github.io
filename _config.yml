@@ -21,7 +21,7 @@ repository               : "dasomh/dasomh.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "dasom_photo.png"
+  avatar           : "profile.jpeg"
   name             : "Dasom Han"
   pronouns         : "she/her"  
   bio              : "Urban Planner & Transportation Engineer"
