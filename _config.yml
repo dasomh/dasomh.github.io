@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Dasom Han / Urban Planner"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Dasom Han"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.jpeg"
   name             : "Dasom Han"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Urban Planner & Transportation Engineer"
   location         : "Champaign County"
   employer         : "Champaign County Regional Planning Commission (CCRPC)"
   uri              : # URL
