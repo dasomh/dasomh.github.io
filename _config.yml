@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.jpeg"
   name             : "Dasom Han"
-  pronouns         : "she/her"  
+  pronouns         : # URL "she/her"  
   bio              : "Urban Planner & Transportation Engineer"
   location         : "Champaign County"
   employer         : "<span style='font-size: smaller;'>Champaign County <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Regional Planning Commission(CCRPC)</span>"
