@@ -26,7 +26,7 @@ author:
   pronouns         : "she/her"  
   bio              : "Urban Planner & Transportation Engineer"
   location         : "Champaign County"
-  employer         : "Champaign County <br>Regional Planning Commission (CCRPC)"
+  employer         : "<span style='font-size: smaller;'>Champaign County <br>Regional Planning Commission(CCRPC)</span>"
   uri              : # URL
   email            : "dsh12177@gmail.com" 
 
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/dasom-han-8550872b0/"
+  linkedin         : "dasom-han-8550872b0/"
   mastodon         : # URL 
   medium           : # URL
   pinterest        : # Username
