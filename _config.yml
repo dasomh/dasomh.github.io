@@ -21,13 +21,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile2.png"
   name             : "Dasom Han"
   pronouns         : # example: "she/her"  
   bio              : "Urban Planner & Transportation Engineer"
   location         : "Champaign County"
-  employer         : "Champaign County Regional Planning Commission (CCRPC)"
-  uri              : # URL
+  employer         : "Champaign County 
+  Regional Planning Commission (CCRPC)"
+  uri              : "https://www.ccrpc.org/"
   email            : "dsh12177@gmail.com" 
 
   # Academic websites
