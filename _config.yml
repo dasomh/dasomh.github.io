@@ -26,7 +26,7 @@ author:
   pronouns         : # URL
   bio              : "Urban Planner & Transportation Engineer"
   location         : "Champaign County, Illinois, US"
-  employer         : "<span style='font-size: smaller;'>Champaign County <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href='https://www.ccrpc.org/' target='_blank' style='text-decoration: none; color: inherit;'>Regional Planning Commission (CCRPC)</a></span>"
+  employer         : "<span style='font-size: smaller;'>Champaign County <br> <a href='https://www.ccrpc.org/' target='_blank' style='text-decoration: none; color: inherit;'>Regional Planning Commission (CCRPC)</a></span>"
   uri              : # URL
   email            : "<span style='text-decoration: none;'>dsh12177@gmail.com</span>"
 
