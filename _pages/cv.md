@@ -11,26 +11,17 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Real Estate Study, Hanyang University, 2025 (expected)
+* M.S. in Urban Planning (Sustainable Urban Management), University of Illinois at Urbana Champaign, 2024
+* M.S. in Real Estate Management, Hanyang University, 2018
+  Thesis: A Research on the Influences of the Ui-LRT(Light Rail Transit) on the Prices Surrounding Apartments.
+* B.S. in Business Administration, Dongguk University, 2016
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  <ul>{% for post in site.talks reversed %}
+    {% include archive-single-talk-cv.html  %}
+  {% endfor %}</ul>
   
 Skills
 ======
