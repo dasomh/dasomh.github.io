@@ -26,10 +26,10 @@ author:
   pronouns         : # URL
   bio              : "Urban Planner & Transportation Engineer"
   location         : "Champaign County"
-  employer         : "Champaign County Regional Planning Commission"
+  employer         : "<span style='font-size: smaller;'>Champaign County Regional Planning Commission (CCRPC)</span>"
 
   uri              : # URL
-  email            : "dsh12177@gmail.com"
+  email            : "<span style='text-decoration: none;'>dsh12177@gmail.com</span>"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
