@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'This paper is about fixing template issue #693.'
 date: 2024-02-17
-venue: 'AAG Annual Conference 2024'
+venue: '2024 AAG Annual Conference'
 paperurl: 'https://aag.secure-platform.com/aag2024/solicitations/57/sessiongallery/8023/application/31253'
 citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
