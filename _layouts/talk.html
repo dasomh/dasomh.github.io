@@ -31,8 +31,10 @@ layout: default
     <div class="page__inner-wrap">
       {% unless page.header.overlay_color or page.header.overlay_image %}
         <header>
-          <!-- No title or heading will be displayed -->
-          
+          {% if page.title %}
+            <h1 class="page__title" itemprop="headline">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</h1>
+          {% endif %}
+
           {% if page.read_time %}
             <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
           {% endif %}
@@ -44,15 +46,15 @@ layout: default
             <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i>Date:</strong> 
             <time datetime="{{ page.date }}">{{ page.date }}</time></p>
           {% endif %}
-          
           {% if page.talk_type %}
             <p>{{page.talk_type}} at {{ page.venue }},  {{page.location}}</p>
           {% endif %}
+
         </header>
       {% endunless %}
 
       <section class="page__content" itemprop="text">
-        {{ content }}  <!-- Content will always render, regardless of title -->
+        {{ content }}  <!-- This ensures the content is always rendered -->
         {% if page.link %}
           <div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>
         {% endif %}
