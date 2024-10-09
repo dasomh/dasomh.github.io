@@ -22,7 +22,7 @@
 
   <div class="author__urls-wrapper">
     <button class="btn btn--inverse">Follow</button>
-    <ul class="author__urls social-icons">
+    <ul class="author__urls social-icons" style="display: none;">
       <!-- Font Awesome icons / Biographic information  -->
       {% if author.location %}
         <li class="author__desktop"><i class="fa-solid fa-location-dot icon-pad-right" aria-hidden="true"></i>{{ author.location }}</li>
@@ -123,3 +123,19 @@
   </ul>
     </div>
   </div>
+
+<!-- Follow 버튼 클릭 시 소셜 아이콘 토글 -->
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    const followButton = document.querySelector('.btn--inverse');
+    const socialIcons = document.querySelector('.author__urls');
+
+    followButton.addEventListener('click', function() {
+      if (socialIcons.style.display === 'none' || !socialIcons.style.display) {
+        socialIcons.style.display = 'block';
+      } else {
+        socialIcons.style.display = 'none';
+      }
+    });
+  });
+</script>
