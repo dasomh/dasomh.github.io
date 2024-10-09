@@ -8,7 +8,7 @@ date: 2024-12-31(Estimate)
 venue: 'PLOS ONE'
 slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+citation: 'Publish Soon'
 ---
 
 This research investigates how urban vegetation affects housing prices, with a focus on the changes observed before and after the COVID-19 pandemic in Chicago. Using spatial analysis models such as OLS, GWR, and MGWR, the study reveals localized effects of green spaces on property values. While vegetation generally enhances housing prices, some areas show declines, emphasizing the need for tailored urban planning strategies to improve livability and market resilience in the post-pandemic era.
