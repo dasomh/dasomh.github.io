@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Dasom Han / Urban Planner"
 title_separator          : "-"
-name                     : &name "Dasom Han2222"
+name                     : &name "Dasom Han"
 description              : &description "personal description"
 url                      : "https://dasomh.github.io/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
