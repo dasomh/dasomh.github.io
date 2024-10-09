@@ -10,9 +10,12 @@ redirect_from:
 <div style="text-align: justify;">
 I’m Dasom Han, an Urban Planner with a deep passion for shaping cities that are not only vibrant and functional but also sustainable for future generations. My journey in urban planning and research has been driven by the belief that our cities can thrive economically, socially, and environmentally—creating spaces where people and nature coexist harmoniously.
 </div>  
+<div style="text-align: justify;">
 With over 10 years of experience, my focus is on sustainable urban development, transportation planning, and the integration of cutting-edge technology to enhance livability. From leading urban regeneration projects to conducting in-depth research on housing affordability and green infrastructure, I aim to contribute to a future where cities are more resilient, equitable, and sustainable.
 </div>  
+<div style="text-align: justify;">
 Explore my work and research on this site to learn more about the projects I’ve contributed to and my ongoing efforts to build better urban environments.
+</div>  
 <br> <!-- This will add line breaks (space) -->
 ![Editing a markdown file for a talk](/images/다솜2.jpeg)
 <br> <!-- This will add line breaks (space) -->
