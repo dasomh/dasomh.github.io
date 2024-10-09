@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "<span style='font-size: 34px;'>A Journey to Create a Sustainable City<br>Beyond the Future</span>"
+title: "<span style='font-size: 34px;'>A Journey to Create a Sustainable City<br><br>Beyond the Future</span>"
 author_profile: true
 redirect_from: 
   - /about/
