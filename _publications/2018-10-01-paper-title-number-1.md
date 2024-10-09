@@ -7,7 +7,7 @@ excerpt: 'This research analyzes the impact of the Ui-Sinseol Light Rail Transit
 date: 2018-06-01
 venue: 'The Korean Regional Development Association'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE07564440'
+paperurl: 'https://scholar.kyobobook.co.kr/article/detail/4010027352972'
 citation: 'Han, D. S., & Choi, C. G. (2018-06-02). The Korean Regional Development Association Conference, Gyeonggi. 한다솜, 최창규. (2018-06-02). 한국지역개발학회 학술대회, 경기.'
 ---
 
