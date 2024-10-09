@@ -12,7 +12,7 @@ title                    : "Dasom Han | Urban Planner & PhD.Candidate"
 title_separator          : "-"
 name                     : &name "Dasom Han"
 description              : &description "personal description"
-url                      : "https://dasomh.github.io/"
+url                      : https://dasomh.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/dasomh/dasomh.github.io.git"
 
