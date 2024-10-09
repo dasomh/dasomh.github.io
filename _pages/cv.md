@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Real Estate Study, Hanyang University, 2025 (expected)
-* M.S. in Urban Planning (Sustainable Urban Management), University of Illinois at Urbana Champaign, 2024
+* Ph.D in Real Estate Study, Hanyang University, 2025(Expected)
+* M.S. in Urban Planning(Sustainable Urban Management), University of Illinois at Urbana Champaign, 2024
 * M.S. in Real Estate Management, Hanyang University, 2018
   <p>Thesis: A Research on the Influences of the Ui-LRT(Light Rail Transit) on the Prices Surrounding Apartments.</p>
 * B.S. in Business Administration, Dongguk University, 2016
