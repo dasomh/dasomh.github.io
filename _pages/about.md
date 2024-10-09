@@ -19,9 +19,7 @@ redirect_from:
 <br> <!-- This will add line breaks (space) -->
 ![Editing a markdown file for a talk](/images/다솜2.jpeg)
 <br> <!-- This will add line breaks (space) -->
-
-<div style="text-align: justify;">
-<br> <!-- This will add line breaks (space) -->
+</div>  
 
 
 A data-driven personal website
