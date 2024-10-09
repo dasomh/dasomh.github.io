@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'This study examines how proximity to Chicago’s L Train impacts housing prices, with a focus on areas within and beyond a 1-mile radius of the stations. Utilizing multiple regression and geographically weighted regression (GWR), the analysis highlights the significant role of transportation infrastructure in shaping local housing markets, revealing both positive and region-specific effects on property values.'
 date: 2024-04-15
-venue: '2024 AAG Annual Conference'
+venue: 'AAG Annual Conference'
 slidesurl: 'http://dasomh.github.io/files/240415_AAG_Impact of Chicago L on Housing Prices_Dasom Han3.pdf'
 paperurl: 'https://aag.secure-platform.com/aag2024/solicitations/57/sessiongallery/8023/application/31253'
 citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
