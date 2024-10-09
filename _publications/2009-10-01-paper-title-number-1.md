@@ -1,7 +1,7 @@
 ---
 title: "우이신설선 건설이 주변 아파트 가격에 미치는 영향에 관한 연구"
 collection: publications
-category: conference
+category: conferences
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This research analyzes the impact of the Ui-Sinseol Light Rail Transit construction on nearby apartment prices in Seoul. The study employs multiple regression analysis to evaluate how proximity to the newly constructed rail line influences housing values, with a focus on regional differences. The results highlight that the western areas experienced more significant price changes compared to the eastern areas, likely due to the influence of Line 4. The findings emphasize the varying effects of transportation infrastructure on real estate markets depending on local conditions and existing transit options.'
 date: 2018-06-01
