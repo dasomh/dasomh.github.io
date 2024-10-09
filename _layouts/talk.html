@@ -35,33 +35,23 @@ layout: default
             <h1 class="page__title" itemprop="headline">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</h1>
           {% endif %}
 
-          {% if page.read_time %}
-            <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
+          {% if page.date %}
+            <p class="page__date"><strong>Date:</strong> {{ page.date }}</p>
           {% endif %}
-
-          {% if page.modified %}
-            <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i>Date:</strong> 
-            <time datetime="{{ page.modified }}">{{ page.modified }}</time></p>
-          {% elsif page.date %}
-            <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i>Date:</strong> 
-            <time datetime="{{ page.date }}">{{ page.date }}</time></p>
+          
+          <!-- Ensure type and location are displayed -->
+          {% if page.type %}
+            <p class="page__type"><strong>Type:</strong> {{ page.type }}</p>
           {% endif %}
-
-          {% if page.talk_type or page.location %}
-            <p>
-              {% if page.talk_type %}
-                <strong>Position:</strong> {{ page.talk_type }}
-              {% endif %}
-              {% if page.location %}
-                <br><strong>Location:</strong> {{ page.location }}
-              {% endif %}
-            </p>
+          
+          {% if page.location %}
+            <p class="page__location"><strong>Location:</strong> {{ page.location }}</p>
           {% endif %}
         </header>
       {% endunless %}
 
       <section class="page__content" itemprop="text">
-        {{ content }}  <!-- This ensures the content is always rendered -->
+        {{ content }}
         {% if page.link %}
           <div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>
         {% endif %}
