@@ -9,16 +9,14 @@ redirect_from:
 ---
 <div style="text-align: justify;">
 I’m Dasom Han, an Urban Planner with a deep passion for shaping cities that are not only vibrant and functional but also sustainable for future generations. My journey in urban planning and research has been driven by the belief that our cities can thrive economically, socially, and environmentally—creating spaces where people and nature coexist harmoniously.
-
+<br> <!-- This will add line breaks (space) -->
+![Editing a markdown file for a talk](/images/다솜2.jpeg)
+<br> <!-- This will add line breaks (space) -->
 With over 10 years of experience, my focus is on sustainable urban development, transportation planning, and the integration of cutting-edge technology to enhance livability. From leading urban regeneration projects to conducting in-depth research on housing affordability and green infrastructure, I aim to contribute to a future where cities are more resilient, equitable, and sustainable.
 
 Explore my work and research on this site to learn more about the projects I’ve contributed to and my ongoing efforts to build better urban environments.
 </div>
-
 <br> <!-- This will add line breaks (space) -->
-![Editing a markdown file for a talk](/images/다솜2.jpeg)
-<br> <!-- This will add line breaks (space) -->
-
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
