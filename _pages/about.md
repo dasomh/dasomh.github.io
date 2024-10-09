@@ -1,13 +1,17 @@
 ---
 permalink: /
-title: "A journey to create a sustainable city beyond the future"
+title: "A Journey to Create a Sustainable City Beyond the Future"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I’m Dasom Han, an Urban Planner with a deep passion for shaping cities that are not only vibrant and functional but also sustainable for future generations. My journey in urban planning and research has been driven by the belief that our cities can thrive economically, socially, and environmentally—creating spaces where people and nature coexist harmoniously.
+
+With over 10 years of experience, my focus is on sustainable urban development, transportation planning, and the integration of cutting-edge technology to enhance livability. From leading urban regeneration projects to conducting in-depth research on housing affordability and green infrastructure, I aim to contribute to a future where cities are more resilient, equitable, and sustainable.
+
+Explore my work and research on this site to learn more about the projects I’ve contributed to and my ongoing efforts to build better urban environments.
 
 A data-driven personal website
 ======
