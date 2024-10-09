@@ -16,9 +16,7 @@ Explore my work and research on this site to learn more about the projects I’v
 </div>
 
 <br> <!-- This will add line breaks (space) -->
-
 ![Editing a markdown file for a talk](/images/다솜2.jpeg)
-
 <br> <!-- This will add line breaks (space) -->
 
 A data-driven personal website
