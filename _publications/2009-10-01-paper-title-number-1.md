@@ -1,5 +1,5 @@
 ---
-title: "우이신설선 건설이 주변 아파트 가격에 미치는 영향에 관한 연구"
+title: "A Research on the Influences of the Ui-LRT(Light Rail Transit) on the Prices Surrounding Apartments. 우이신설선 건설이 주변 아파트 가격에 미치는 영향에 관한 연구"
 collection: publications
 category: conferences
 permalink: /publication/2009-10-01-paper-title-number-1
