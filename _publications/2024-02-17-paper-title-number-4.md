@@ -8,7 +8,7 @@ date: 2024-04-15
 venue: 'AAG Annual Conference'
 slidesurl: 'http://dasomh.github.io/files/240415_AAG_Impact of Chicago L on Housing Prices_Dasom Han3.pdf'
 paperurl: 'https://aag.secure-platform.com/aag2024/solicitations/57/sessiongallery/8023/application/31253'
-citation: 'Han, D. (2024). Presented at the 2024 AAG Annual Meeting. Department of Urban and Regional Planning, University of Illinois at Urbana-Champaign. Retrieved from [https://aag.secure-platform.com/aag2024/solicitations/57/sessiongallery/8023/application/31253]'
+citation: 'Han, D. (2024). Presented at the 2024 AAG Annual Meeting. Department of Urban and Regional Planning, University of Illinois at Urbana-Champaign.'
 ---
 
 Although initially a semester project, this study was presented at an academic conference with the support of the University of Illinois at Urbana-Champaign, in recognition of its outstanding research results. This study examines how proximity to Chicago’s L Train impacts housing prices, with a focus on areas within and beyond a 1-mile radius of the stations. Utilizing multiple regression and geographically weighted regression (GWR), the analysis highlights the significant role of transportation infrastructure in shaping local housing markets, revealing both positive and region-specific effects on property values.
