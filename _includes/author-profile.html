@@ -6,13 +6,14 @@
 
 <div itemscope itemtype="http://schema.org/Person">
 
-  <div class="author__avatar">
+    <div class="author__avatar">
     {% if author.avatar contains "://" %}
     	<img src="{{ author.avatar }}" alt="{{ author.name }}">
     {% else %}
     	<img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}" style="border-radius: 0;">
     {% endif %}
   </div>
+
 
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
@@ -111,60 +112,19 @@
       {% if author.linkedin %}
         <li><a href="https://www.linkedin.com/in/{{ author.linkedin }}"><i class="fab fa-fw fa-linkedin icon-pad-right" aria-hidden="true"></i>LinkedIn</a></li>
       {% endif %}      
-      {% if author.mastodon %}
-        <li><a href="{{ author.mastodon }}"><i class="fab fa-fw fa-mastodon icon-pad-right" aria-hidden="true"></i>Mastodon</a></li>
-      {% endif %}
-      {% if author.medium %}
-        <li><a href="{{ author.medium }}"><i class="fab fa-fw fa-medium icon-pad-right" aria-hidden="true"></i>Medium</a></li>
-      {% endif %}      
-      {% if author.pinterest %}
-        <li><a href="https://www.pinterest.com/{{ author.pinterest }}"><i class="fab fa-fw fa-pinterest icon-pad-right" aria-hidden="true"></i>Pinterest</a></li>
-      {% endif %}            
-      {% if author.soundcloud %}
-        <li><a href="https://soundcloud.com/{{ author.soundcloud }}"><i class="fab fa-fw fa-soundcloud icon-pad-right" aria-hidden="true"></i>Soundcloud</a></li>
-      {% endif %}      
-      {% if author.steam %}
-        <li><a href="https://steamcommunity.com/id/{{ author.steam }}"><i class="fab fa-fw fa-steam icon-pad-right" aria-hidden="true"></i>Steam</a></li>
-      {% endif %}
-      {% if author.telegram %}
-        <li><a href="{{ author.telegram }}"><i class="fab fa-fw fa-telegram icon-pad-right" aria-hidden="true"></i>Telegram</a></li>
-      {% endif %}      
-      {% if author.tumblr %}
-        <li><a href="https://{{ author.tumblr }}.tumblr.com"><i class="fab fa-fw fa-tumblr icon-pad-right" aria-hidden="true"></i>Tumblr</a></li>
-      {% endif %}      
-      {% if author.twitter %}
-        <li><a href="https://twitter.com/{{ author.twitter }}"><i class="fab fa-fw fa-x-twitter icon-pad-right" aria-hidden="true"></i>X (formerly Twitter)</a></li>
-      {% endif %}
-      {% if author.vine %}
-        <li><a href="https://vine.co/u/{{ author.vine }}"><i class="fab fa-fw fa-vine icon-pad-right" aria-hidden="true"></i>Vine</a></li>
-      {% endif %}        
-      {% if author.weibo %}
-        <li><a href="https://www.weibo.com/{{ author.weibo }}"><i class="fab fa-fw fa-weibo icon-pad-right" aria-hidden="true"></i>Weibo</a></li>
-      {% endif %}
-      {% if author.wikipedia %}
-        <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w icon-pad-right" aria-hidden="true"></i>Wikipedia</a></li>
-      {% endif %}                
-      {% if author.xing %}
-        <li><a href="https://www.xing.com/profile/{{ author.xing }}"><i class="fab fa-fw fa-xing icon-pad-right" aria-hidden="true"></i>XING</a></li>
-      {% endif %}
-      {% if author.youtube %}
-        <li><a href="https://www.youtube.com/@{{ author.youtube }}"><i class="fab fa-fw fa-youtube icon-pad-right" aria-hidden="true"></i>YouTube</a></li>
-      {% endif %}
-      {% if author.zhihu %}
-      <li><a href="htps://www.zhihu.com/people/{{ author.zhihu }}"><i class="fab fa-fw fa-zhihu icon-pad-right" aria-hidden="true"></i>Zhihu</a></li>
-        {% endif %}      
+
+      <!-- "Schedule an appointment" Button -->
+      <li>
+        <a href="https://calendly.com/dasomhan/30min?preview_source=et_card&month=2024-10" 
+           class="btn btn--inverse" 
+           style="display: inline-block; background-color: #007bff; color: #e3e7f3 !important; padding: 10px 20px; text-decoration: none; border-radius: 5px; transition: font-size 0.3s ease;">
+          Schedule an Appointment
+        </a>
+      </li>
+
     </ul>
   </div>
-</div>  
-
-<!-- "Schedule an appointment" Button -->
-<li>
-  <a href="https://calendly.com/dasomhan/30min?preview_source=et_card&month=2024-10" 
-     class="btn btn--inverse" 
-     style="display: inline-block; background-color: #007bff; color: #e3e7f3 !important; padding: 10px 20px; text-decoration: none; border-radius: 5px; transition: all 0.3s ease;">
-    Schedule an Appointment
-  </a>
-</li>
+</div>
 
 <style>
   /* Hover effect to increase font size */
@@ -172,7 +132,3 @@
     font-size: 1.2em; /* Increase font size when hovered */
   }
 </style>
-   {% endif %}      
-    </ul>
-  </div>
-</div>
