@@ -15,7 +15,7 @@ With over 10 years of experience, my focus is on sustainable urban development, 
 Explore my work and research on this site to learn more about the projects I’ve contributed to and my ongoing efforts to build better urban environments.
 </div>
 
-
+![Editing a markdown file for a talk](/images/다솜2.jpeg)
 
 
 A data-driven personal website
