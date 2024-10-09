@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Dasom Han | Urban Planner & PhD.Candidate"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Dasom Han"
+name                     : &name "Your Name"
 description              : &description "personal description"
 url                      : https://dasomh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
