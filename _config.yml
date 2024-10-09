@@ -21,12 +21,12 @@ repository               : "dasomh/dasomh.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "<img src='profile.png' class='avatar' alt='Dasom Han' />"
+  avatar           : "profile.png"
   name             : "Dasom Han"
   pronouns         : # URL
   bio              : "Urban Planner & Transportation Engineer"
   location         : "Champaign County, Illinois, US"
-  employer         : "<span style='font-size: smaller;'>Champaign County<br><a href='https://www.ccrpc.org/' target='_blank' style='text-decoration: none; color: inherit;'>ㅤㅤRegional Planning Commission (CCRPC)</a></span>"
+  employer         : "<span style='font-size: smaller;'>Champaign County<br><a href='https://www.ccrpc.org/' target='_blank' style='text-decoration: none; color: inherit;'>ㅤㅤㅤRegional Planning Commission (CCRPC)</a></span>"
   uri              : # URL
   email            : "<span style='text-decoration: none;'>dsh12177@gmail.com</span>"
 
