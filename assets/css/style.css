@@ -1,0 +1,41 @@
+
+.btn--inverse {
+  background-color: #007bff;
+  color: #ffffff !important;
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 5px;
+  font-size: 14px;
+  transition: font-size 0.3s ease;
+}
+
+.social-icons {
+  list-style: none;
+  padding: 0;
+}
+
+.social-icons li {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.author__avatar img {
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+}
+
+.author__content h3 {
+  margin: 10px 0 5px;
+  font-size: 18px;
+}
+
+.author__urls-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.btn:hover {
+  font-size: 15px;
+}
