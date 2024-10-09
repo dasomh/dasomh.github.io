@@ -4,8 +4,8 @@ collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
+date: 2022-04-01
+venue: 'Journal of Korea Planning Association'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://kpaj.or.kr/xml/33040/33040.pdf'
 citation: 'Han, D. S., & Choi, C. G. (2022). Journal of Korea Planning Association, 57(2), 108-126.'
