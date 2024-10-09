@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Dasom Han | Urban Planner & PhD.Candidate"
+title                    : "Dasom Han | Urban Planner & PhD.Candidate "
 title_separator          : "-"
 name                     : &name "Dasom Han"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://dasomh.github.io/"
+url                      : "https://dasomh.github.io/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dasomh/dasomh.github.io"
 
@@ -22,9 +22,9 @@ repository               : "dasomh/dasomh.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Dasom Han"
+  name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "Urban Planner & Transportation Engineer"
+  bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
