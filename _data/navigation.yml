@@ -18,7 +18,7 @@ main:
     url: /cv/
     
   - title: "My Story"
-    url: /talks/    
+    url: /year-archive/ 
 
   - title: "Teaching"
     url: /teaching/    
