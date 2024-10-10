@@ -20,8 +20,7 @@ Work experience
 ======
 *	Champaign County Regional Planning Commission, Illinois, United States<br>
 Planner II, Sep 2024 – Present<br>
-Lead efforts in traffic safety planning, community engagement, and transportation system resilience as part of the Safe Streets for All (SS4A) program, contributing to safer, more equitable transportation networks across the region, Develop and implement comprehensive traffic safety action plans for urban and rural areas, focused on reducing roadway fatalities and serious injuries in alignment with Vision Zero principles.
-
+Lead efforts in traffic safety planning, community engagement, and transportation system resilience as part of the Safe Streets for All (SS4A) program, contributing to safer, more equitable transportation networks across the region, Develop and implement comprehensive traffic safety action plans for urban and rural areas, focused on reducing roadway fatalities and serious injuries in alignment with Vision Zero principles.<br>
 Planning Intern, May 2024 – Sep 2024
 Contributed to the development of affordable housing in Champaign County through comprehensive analysis of the Housing and Transportation Affordability Index, and improved the accuracy of population and employment forecasts for Champaign County's Long Range Transportation Plan.
 
