@@ -36,13 +36,11 @@ Facilitated housing supply screening for low-income youth, improving accessibili
 
 Projects
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-  
+* <strong>A Study of the Impact of Chicago L (Elevated train) Accessibility on Housing Prices</strong>, Oct 2023 – Dec 2023<br>
+Presented at the Association of American Geographers Meeting, Hawaii.</em><br>
+This project rigorously assessed the varying impacts of proximity to Chicago's L train on housing prices contextualized by house characteristics. It sheds light on the dynamic interplay between public transport accessibility and real estate value, generating actionable insights for urban planning strategies.
+* <strong>Research on the Impact of COVID-19 on the Residential Environment</strong>, Jan 2024 – May 2024<br>
+This research examines how COVID-19 has shifted residential environment dynamics, focusing on housing prices in relation to property characteristics and public transport access. The study identifies changes in housing preferences and valuations, suggesting a possible redefinition of urban housing market patterns due to the pandemic.
 
 Publications
 ======
