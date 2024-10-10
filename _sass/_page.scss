@@ -399,3 +399,7 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+.publication-citation,
+.publication-downloads {
+    font-size: 0.85em;  /* Adjust the size as needed */
+}
