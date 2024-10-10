@@ -13,14 +13,13 @@ Education
 ======
 * Ph.D in Real Estate Study, Hanyang University, 2025(Expected)
 * M.S. in Urban Planning(Sustainable Urban Management), University of Illinois at Urbana Champaign, 2024
-* M.S. in Real Estate Management, Hanyang University, 2018
-  <p>Thesis: A Research on the Influences of the Ui-LRT(Light Rail Transit) on the Prices Surrounding Apartments.</p>
+* M.S. in Real Estate Management, Hanyang University, 2018<br><p><em>Thesis: A Research on the Influences of the Ui-LRT(Light Rail Transit) on the Prices Surrounding Apartments.</em></p>
 * B.S. in Business Administration, Dongguk University, 2016
 
 Work experience
 ======
-*	Champaign County Regional Planning Commission, Illinois, United States 
-Planner II, Sep 2024 – Present
+*	Champaign County Regional Planning Commission, Illinois, United States<br>
+Planner II, Sep 2024 – Present<br>
 Lead efforts in traffic safety planning, community engagement, and transportation system resilience as part of the Safe Streets for All (SS4A) program, contributing to safer, more equitable transportation networks across the region, Develop and implement comprehensive traffic safety action plans for urban and rural areas, focused on reducing roadway fatalities and serious injuries in alignment with Vision Zero principles.
 
 Planning Intern, May 2024 – Sep 2024
