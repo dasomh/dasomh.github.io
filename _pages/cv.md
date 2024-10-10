@@ -13,22 +13,22 @@ Education
 ======
 * Ph.D in Real Estate Study, Hanyang University, 2025(Expected)
 * M.S. in Urban Planning(Sustainable Urban Management), University of Illinois at Urbana Champaign, 2024
-* M.S. in Real Estate Management, Hanyang University, 2018<br><p><em>Thesis: A Research on the Influences of the Ui-LRT(Light Rail Transit) on the Prices Surrounding Apartments.</em></p>
+* M.S. in Real Estate Management, Hanyang University, 2018<br><em>Thesis: A Research on the Influences of the Ui-LRT(Light Rail Transit) on the Prices Surrounding Apartments.</em>
 * B.S. in Business Administration, Dongguk University, 2016
 
 Work experience
 ======
-*	Champaign County Regional Planning Commission, Illinois, United States<br>
-Planner II, Sep 2024 – Present<br>
+*	<strong>Champaign County Regional Planning Commission, Illinois, United States<strong><br>
+</em>Planner II, Sep 2024 – Present</em><br>
 Lead efforts in traffic safety planning, community engagement, and transportation system resilience as part of the Safe Streets for All (SS4A) program, contributing to safer, more equitable transportation networks across the region, Develop and implement comprehensive traffic safety action plans for urban and rural areas, focused on reducing roadway fatalities and serious injuries in alignment with Vision Zero principles.<br>
+
 Planning Intern, May 2024 – Sep 2024
 Contributed to the development of affordable housing in Champaign County through comprehensive analysis of the Housing and Transportation Affordability Index, and improved the accuracy of population and employment forecasts for Champaign County's Long Range Transportation Plan.
 
-*	Korea Land and Housing Corporation, Seoul, Korea (7 years 2 months)
-Housing Welfare Voucher Business Support, Assistant Manager, Feb 2022 – Aug 2023
+*	<strong>Korea Land and Housing Corporation, Seoul, Korea (7 years 2 months)<strong>
+</em>Housing Welfare Voucher Business Support, Assistant Manager, Feb 2022 – Aug 2023</em><br>
 Developed and implemented an efficient housing voucher system, conducting surveys to assess needs and streamlining voucher payments for low-income households.
-
-Compensation Work for Completed District, Assistant Manager, Feb 2020 – Jan 2022
+Compensation Work for Completed District, Assistant Manager, Feb 2020 – Jan 2022<br>
 Led negotiations for land purchases and managed state-owned land litigation, enhancing urban development efficiency.
 
 Urban Development Project, Suseo Station, Staff, May 2018 – Jan 2020
