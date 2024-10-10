@@ -402,3 +402,6 @@
 .small-text {
     font-size: 0.85em;  /* 글자 크기를 줄이기 위해 사용합니다 */
 }
+a[href*="Download"] {
+    font-size: 0.85em; /* 링크 텍스트의 크기를 줄입니다 */
+}
