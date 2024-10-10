@@ -1,6 +1,6 @@
 ---
-title: "A Research on the Influences of the Ui-LRT(Light Rail Transit) on the Prices Surrounding Apartments. 우이신설선 건설이 주변 아파트 가격에 미치는 영향에 관한 연구"
-collection: publications
+title: "A Research on the Influences of the Ui-LRT(Light Rail Transit) on the Prices Surrounding Apartments. 우이신설경전철이 주변 아파트 가격에 미치는 영향에 관한 연구"
+collection: publications 
 category: conferences
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This study expands upon previous research presented by the Korean Regional Development Association by incorporating a broader range of factors to assess the socioeconomic impacts of the Ui-Sinseol Light Rail Transit (LRT) on apartment prices. While it continues to use multiple regression analysis, it delves deeper by examining a more comprehensive set of variables, including apartment characteristics such as size and year of construction, environmental factors, and neighborhood socioeconomic conditions. The study provides a more nuanced comparison between the eastern and western regions, isolating the specific effects of the LRT and considering additional influences, such as Line 4 in the eastern region. The findings highlight that factors like apartment size and proximity to amenities had a greater impact on price changes, particularly in the western region. Through the use of more sophisticated regression models and a larger data set, this research offers deeper insights into how urban infrastructure like the LRT influences housing markets, providing a more detailed understanding of its socioeconomic implications.'
