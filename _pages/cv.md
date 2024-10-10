@@ -27,11 +27,11 @@ Contributed to the development of affordable housing in Champaign County through
 *	<strong>Korea Land and Housing Corporation, Seoul, Korea (7 years 2 months)</strong><br>
 <em>Housing Welfare Voucher Business Support, Assistant Manager, Feb 2022 – Aug 2023</em><br>
 Developed and implemented an efficient housing voucher system, conducting surveys to assess needs and streamlining voucher payments for low-income households.<br>
-<em>Compensation Work for Completed District, Assistant Manager, Feb 2020 – Jan 2022</em><br>
+<em>Compensation Work for Completed District, Assistant Manager, Feb 2020 – Feb 2022</em><br>
 Led negotiations for land purchases and managed state-owned land litigation, enhancing urban development efficiency.<br>
-<em>Urban Development Project, Suseo Station, Staff, May 2018 – Jan 2020</em><br>
+<em>Urban Development Project, Suseo Station, Staff, May 2018 – Feb 2020</em><br>
 Directed the development project for Suseo Station, a transportation hub in Seoul, and executed feasibility studies, zoning, transportation plan establishment, and environmental impact assessments.<br>
-<em>Youth Housing Supply and Pilot Project Support, Intern, Jul 2016 – Apr 2018</em><br>
+<em>Youth Housing Supply and Pilot Project Support, Intern, Jul 2016 – May 2018</em><br>
 Facilitated housing supply screening for low-income youth, improving accessibility to affordable housing.
 
 Projects
