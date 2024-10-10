@@ -39,3 +39,12 @@
 .btn:hover {
   font-size: 15px;
 }
+
+.archive__item {
+    margin-bottom: 5px !important; /* 간격을 5px로 줄임 */
+}
+
+.list__item {
+    margin-bottom: 5px !important; /* 간격을 5px로 줄임 */
+}
+
