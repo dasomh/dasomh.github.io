@@ -37,7 +37,7 @@ Facilitated housing supply screening for low-income youth, improving accessibili
 Projects
 ======
 * <strong>A Study of the Impact of Chicago L (Elevated train) Accessibility on Housing Prices</strong>, Oct 2023 – Dec 2023<br>
-Presented at the Association of American Geographers Meeting, Hawaii.</em><br>
+<em>Presented at the Association of American Geographers Meeting, Hawaii.</em><br>
 This project rigorously assessed the varying impacts of proximity to Chicago's L train on housing prices contextualized by house characteristics. It sheds light on the dynamic interplay between public transport accessibility and real estate value, generating actionable insights for urban planning strategies.
 * <strong>Research on the Impact of COVID-19 on the Residential Environment</strong>, Jan 2024 – May 2024<br>
 This research examines how COVID-19 has shifted residential environment dynamics, focusing on housing prices in relation to property characteristics and public transport access. The study identifies changes in housing preferences and valuations, suggesting a possible redefinition of urban housing market patterns due to the pandemic.
@@ -50,7 +50,17 @@ Publications
 
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* <strong>Habitat for Humanity Champaign County, Housing Build Volunteer</strong>, Feb 2024<br>
+By supporting housing construction for the underprivileged, a stable living environment was provided for families in need of housing, and community development was promoted.
+* <strong>The Salvation Army Korea, International Volunteer</strong>, Aug 2023<br>
+Led a team to construct waterfront improvements, educated local children, provided free meals, and performed cultural shows, enhancing community well-being and cultural exchange.
+* <strong>Organ Donation Movement Headquarter, Educator</strong>, Aug 2018 – Sep 2018<br>
+Educated the public on the importance of organ donation, significantly increasing awareness and donor registrations. 
+* <strong>The Salvation Army Korea, Fundraising Volunteer</strong>, Dec 2018 – Dec 2022<br>
+Organized and led fundraising events, demonstrating a strong ability to engage the community and garner support. 
+Achieved a remarkable average of $220 raised per hour, significantly contributing to the funding of various charitable initiatives and causes. 
+* <strong>Cultural Festival Committee, Imsil, Korea, Promotor</strong>, Sep 2018 – Sep 2019<br>
+Initiated promotional activities to revitalize Korea's declining rural areas (Imsil), attracting attention to rural challenges and garnering support for sustainable development.
 
 Teaching
 ======
@@ -60,9 +70,8 @@ Teaching
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Proficient in various GIS programs (ArcGIS, QGIS, PostGIS)
+* R, Python, Gitlab
+* CUBE (Transportation modeling software)
+* SPSS
+
