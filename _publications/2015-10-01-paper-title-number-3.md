@@ -6,9 +6,12 @@ permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This study is currently under review and will be published soon.'
 date: 2024-12-31(Estimate)
 venue: 'PLOS ONE'
-slidesurl: 'Authorhttp://dasomh.github.io/files/240430Urban Vegetation Change and Its Impact on Housing Prices_Final.pdf'
-paperurl: 'Authorhttps://journals.plos.org/plosone/'
-citation: 'AuthorPublish Soon'
+slidesurl: '<div class="publication-downloads"><a href=Authorhttp://dasomh.github.io/files/240430Urban Vegetation Change and Its Impact on Housing Prices_Final.pdf">Download Slides</a></div>'
+paperurl: '<div class="publication-downloads"><a href="Authorhttps://journals.plos.org/plosone/">Download Paper</a></div>'
+citation: '<div class="publication-citation">Recommended citation: Publish Soon</div>'
 ---
 
 This research investigates how urban vegetation affects housing prices, with a focus on the changes observed before and after the COVID-19 pandemic in Chicago. Using spatial analysis models such as OLS, GWR, and MGWR, the study reveals localized effects of green spaces on property values. While vegetation generally enhances housing prices, some areas show declines, emphasizing the need for tailored urban planning strategies to improve livability and market resilience in the post-pandemic era.
+slidesurl: 'Authorhttp://dasomh.github.io/files/240430Urban Vegetation Change and Its Impact on Housing Prices_Final.pdf'
+paperurl: 'Authorhttps://journals.plos.org/plosone/'
+citation: 'AuthorPublish Soon'
