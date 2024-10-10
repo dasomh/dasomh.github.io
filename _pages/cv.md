@@ -19,9 +19,25 @@ Education
 
 Work experience
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+*	Champaign County Regional Planning Commission, Illinois, United States 
+Planner II, Sep 2024 – Present
+Lead efforts in traffic safety planning, community engagement, and transportation system resilience as part of the Safe Streets for All (SS4A) program, contributing to safer, more equitable transportation networks across the region, Develop and implement comprehensive traffic safety action plans for urban and rural areas, focused on reducing roadway fatalities and serious injuries in alignment with Vision Zero principles.
+
+Planning Intern, May 2024 – Sep 2024
+Contributed to the development of affordable housing in Champaign County through comprehensive analysis of the Housing and Transportation Affordability Index, and improved the accuracy of population and employment forecasts for Champaign County's Long Range Transportation Plan.
+
+*	Korea Land and Housing Corporation, Seoul, Korea (7 years 2 months)
+Housing Welfare Voucher Business Support, Assistant Manager, Feb 2022 – Aug 2023
+Developed and implemented an efficient housing voucher system, conducting surveys to assess needs and streamlining voucher payments for low-income households.
+
+Compensation Work for Completed District, Assistant Manager, Feb 2020 – Jan 2022
+Led negotiations for land purchases and managed state-owned land litigation, enhancing urban development efficiency.
+
+Urban Development Project, Suseo Station, Staff, May 2018 – Jan 2020
+Directed the development project for Suseo Station, a transportation hub in Seoul, and executed feasibility studies, zoning, transportation plan establishment, and environmental impact assessments.
+
+Youth Housing Supply and Pilot Project Support, Intern, Jul 2016 – Apr 2018
+Facilitated housing supply screening for low-income youth, improving accessibility to affordable housing.
 
 Projects
 ======
