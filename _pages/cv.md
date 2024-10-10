@@ -18,7 +18,7 @@ Education
 
 Work experience
 ======
-*	<strong>Champaign County Regional Planning Commission, Illinois, United States<strong> <br>
+*	<strong>Champaign County Regional Planning Commission, Illinois, United States<strong>
 </em>Planner II, Sep 2024 – Present</em><br>
 Lead efforts in traffic safety planning, community engagement, and transportation system resilience as part of the Safe Streets for All (SS4A) program, contributing to safer, more equitable transportation networks across the region, Develop and implement comprehensive traffic safety action plans for urban and rural areas, focused on reducing roadway fatalities and serious injuries in alignment with Vision Zero principles.<br>
 
