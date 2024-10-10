@@ -1,5 +1,5 @@
-<div class="{{ include.type | default: "list" }}__item">
-  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+<div class="{{ include.type | default: "list" }}__item" style="margin-bottom: 10px;"> <!-- 간격 조정 -->
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork" style="margin-bottom: 10px;"> <!-- 간격 조정 -->
     {% if include.type == "grid" and teaser %}
       <div class="archive__item-teaser">
         <img src=
@@ -11,7 +11,8 @@
           alt="">
       </div>
     {% endif %}
-    <!-- Restoring the title -->
+    
+    <!-- 타이틀 복원 -->
     <h2 class="archive__item-title" itemprop="headline">
       {{ post.title }}
     </h2>
@@ -20,10 +21,10 @@
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
     
-    <!-- Display the date exactly as written in markdown -->
+    <!-- 날짜를 입력된 그대로 표시 -->
     {% if post.date %}<p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.date }}</p>{% endif %}
     
-    <!-- Venue removed -->
+    <!-- venue 삭제 -->
     {% if post.type and post.location %}<p class="archive__item-excerpt" itemprop="description">{{post.type}}, {{post.location}}{% endif %}
     
     {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>{% endif %}
