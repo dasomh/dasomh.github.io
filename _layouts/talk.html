@@ -53,11 +53,10 @@ layout: default
             <!-- 날짜를 원래 입력한 형식 그대로 표시 -->
             <p class="page__date">
               <strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i>Date:</strong>
-              <time datetime="{{ page.date }}">{{ page.date }}</time>
+              {{ page.date }}
             </p>
           {% endif %}
 
-          <!-- venue를 삭제한 상태 -->
           {% if page.talk_type %}
             <p>{{ page.talk_type }} {{ page.location }}</p>
           {% endif %}
