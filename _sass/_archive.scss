@@ -74,6 +74,11 @@
   }
 }
 
+/* 수정된 부분: 간격 조정 */
+.archive__item {
+  margin-bottom: 1em; /* 간격을 1em으로 줄임 */
+}
+
 .archive__item:hover {
   .archive__item-teaser {
     box-shadow: 0 0 10px rgba(#000, 0.25);
@@ -83,7 +88,6 @@
     text-decoration: underline;
   }
 }
-
 
 /*
    List view
@@ -105,8 +109,10 @@
   .page__meta {
     margin: 0 0 4px;
   }
+  
+  /* 수정된 부분: 간격 조정 */
+  margin-bottom: 1em; /* 간격을 1em으로 줄임 */
 }
-
 
 /*
    Grid view
@@ -150,7 +156,6 @@
     }
   }
 }
-
 
 /*
    Features
