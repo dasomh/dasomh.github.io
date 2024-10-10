@@ -12,7 +12,7 @@
       </div>
     {% endif %}
     
-    <!-- 타이틀 복원 -->
+    <!-- 타이틀 표시 -->
     <h2 class="archive__item-title" itemprop="headline">
       {{ post.title }}
     </h2>
@@ -21,8 +21,8 @@
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
     
-    <!-- 날짜를 입력된 그대로 표시 -->
-    {% if post.date %}<p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.date }}</p>{% endif %}
+    <!-- display_date 필드를 사용하여 입력된 그대로 날짜 표시 -->
+    {% if post.display_date %}<p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.display_date }}</p>{% endif %}
     
     <!-- venue 삭제 -->
     {% if post.type and post.location %}<p class="archive__item-excerpt" itemprop="description">{{post.type}}, {{post.location}}{% endif %}
