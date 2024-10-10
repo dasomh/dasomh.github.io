@@ -76,7 +76,7 @@
 
 /* 수정된 부분: 간격 조정 */
 .archive__item {
-  margin-bottom: 1em !important; /* 강제로 적용 */
+  margin-bottom: 1em !important; /* 간격을 1em으로 줄이고 강제로 적용 */
 }
 
 .archive__item:hover {
@@ -111,7 +111,7 @@
   }
   
   /* 수정된 부분: 간격 조정 */
-  margin-bottom: 1em; /* 간격을 1em으로 줄임 */
+  margin-bottom: 1em !important; /* 간격을 1em으로 줄이고 강제로 적용 */
 }
 
 /*
