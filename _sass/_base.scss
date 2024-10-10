@@ -314,7 +314,7 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
   transition: $global-transition;
 }
 
-.publication-citation,
-.publication-downloads {
-    font-size: 0.85em;  /* Adjust the size as needed */
+.small-text {
+    font-size: 0.85em;  /* 글자 크기를 줄이기 위해 사용합니다 */
 }
+
