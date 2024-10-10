@@ -405,22 +405,15 @@
 a[href*="Download"] {
     font-size: 0.85em; /* 링크 텍스트의 크기를 줄입니다 */
 }
-/* 제목 아래 간격 줄이기 */
-h1, h2, h3, h4, h5, h6 {
-    margin-bottom: 0.5em;  /* 헤더와 다른 요소 사이의 간격 줄임 */
-}
-
-/* 'Published in' 텍스트와 그 아래 정보들 간의 간격 줄이기 */
+/* 강제로 간격 줄이기 */
 .publication-info p {
-    margin-bottom: 0.5em;  /* 각 정보 사이 간격을 더 줄임 */
+    margin-bottom: 0.5em !important;
 }
 
-/* 추천 인용문과 다운로드 링크 사이 간격 줄이기 */
 .publication-info .small-text {
-    margin-bottom: 0.25em;  /* 작은 텍스트 사이 간격 줄이기 */
+    margin-bottom: 0.25em !important;
 }
 
-/* 링크 간의 간격 줄이기 */
 .publication-info a {
-    margin-right: 0.5em;  /* 다운로드 링크 간의 간격 줄이기 */
+    margin-right: 0.5em !important;
 }
