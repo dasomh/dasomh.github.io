@@ -6,8 +6,8 @@ permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This study is currently under review and will be published soon.'
 date: 2024-12-31(Estimate)
 venue: 'PLOS ONE'
-slidesurl: '<p class="small-text"><a href=Authorhttp://dasomh.github.io/files/240430Urban Vegetation Change and Its Impact on Housing Prices_Final.pdf">Download Slides</a></p>'
-paperurl: '<p class="small-text"><a href="Authorhttps://journals.plos.org/plosone/">Download Paper</a><</p>'
+slidesurl: '<p class="small-text"><a href="http://dasomh.github.io/files/240430Urban Vegetation Change and Its Impact on Housing Prices_Final.pdf"></a></p>'
+paperurl: '<p class="small-text"><a href="https://journals.plos.org/plosone/"></a></p>'
 citation: '<p class="small-text">Publish Soon</p>'
 ---
 
