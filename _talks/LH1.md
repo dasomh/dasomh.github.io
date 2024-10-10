@@ -1,11 +1,11 @@
 ---
 title: " "
 collection: talks
-type: "Assistant Manager"
+type: "Intern"
 permalink: /talks/2012-03-01-talk-1
 venue: ""
-display_date: "Feb 2020 - Feb 2022"
-location: "Compensation Work for Completed District, Gangnam District, Seoul, South Korea"
+display_date: "Jul 2020 - May 2022"
+location: "Youth Housing Supply and Pilot Project Support, Gangnam District, Seoul, South Korea"
 ---
 
-Led negotiations for land purchases and managed state-owned land litigation, playing a critical role in urban development projects. Coordinated land acquisition strategies, ensuring project timelines remained on track and minimizing delays. Collaborated with external legal counsel to resolve compensation issues and navigate regulatory challenges, maintaining compliance and fairness in state-owned land dealings.
+Supported the youth housing supply project by facilitating housing screenings for low-income youth. Collaborated with local governments to streamline approval processes and align project initiatives with broader urban development goals. Conducted research to assess housing needs and contributed insights that shaped pilot projects aimed at increasing accessibility to affordable housing for disadvantaged groups.
