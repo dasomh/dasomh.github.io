@@ -1,7 +1,7 @@
 ---
 title: " "
 collection: talks
-type: "Assistant Manager"
+type: "Staff"
 permalink: /talks/2012-03-01-talk-1
 venue: ""
 display_date: "May 2018 - Feb 2020"
