@@ -1,5 +1,5 @@
 ---
-title: "Real Estate Investment"
+title: "Commercial Real Estate Investment"
 excerpt: "Prime Gangnam property, fully leased to a plastic surgery clinic. Achieved 23% cash return and 100% occupancy through detailed financial analysis.<br/><img src='/images/cascade.png'>"
 collection: portfolio
 ---
