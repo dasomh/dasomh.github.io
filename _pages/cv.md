@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Real Estate Study, Hanyang University, 2025 <em>(Expected)</em>
-* M.S. in Urban Planning(Sustainable Urban Management), University of Illinois at Urbana Champaign, 2024
+* M.S. in Urban Planning (Sustainable Urban Management), University of Illinois at Urbana Champaign, 2024
 * M.S. in Real Estate Management, Hanyang University, 2018<br><em>Thesis: A Research on the Influences of the Ui-LRT(Light Rail Transit) on the Prices Surrounding Apartments.</em>
 * B.S. in Business Administration, Dongguk University, 2016
 
@@ -61,12 +61,6 @@ Organized and led fundraising events, demonstrating a strong ability to engage t
 Achieved a remarkable average of $220 raised per hour, significantly contributing to the funding of various charitable initiatives and causes. 
 * <strong>Cultural Festival Committee, Imsil, Korea, Promotor</strong>, Sep 2018 – Sep 2019<br>
 Initiated promotional activities to revitalize Korea's declining rural areas (Imsil), attracting attention to rural challenges and garnering support for sustainable development.
-
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Skills
 ======
