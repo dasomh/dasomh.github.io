@@ -64,7 +64,7 @@ Initiated promotional activities to revitalize Korea's declining rural areas (Im
   
 Skills
 ======
-* Proficient in various GIS programs (ArcGIS, QGIS, PostGIS)
+* Proficient in various GIS programs (ArcGIS, QGIS, PostGIS)
 * R, Python, Gitlab
 * CUBE (Transportation modeling software)
 * SPSS
