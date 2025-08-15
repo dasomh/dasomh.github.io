@@ -26,7 +26,7 @@ Work experience
 - Evaluate the potential impact of upcoming construction and maintenance projects on traffic performance. Generate before-and-after traffic impact assessments and contribute to the mitigation planning process in collaboration with the Toll Operations and Infrastructure teams.
 -  Conducted in-depth crash data analysis by calculating segment-level Vehicle Miles Traveled (VMT) and crash rates using internal traffic data and incident reports. Identified high-risk locations and trends in crash frequency and severity, enabling the Safety and Operations teams to prioritize countermeasures and maintenance efforts.
 <br>
-*	<strong>Champaign County Regional Planning Commission, Illinois, United States</strong><br>
+*	<strong>Champaign County Regional Planning Commission, Illinois, United States (1 year 1 month)</strong><br>
 <em>Planner II, Sep 2024 – Jun 2025</em><br>
 -  Utilize advanced GIS and data analysis techniques to enhance land use modeling and infrastructure planning, analyzing crash data within the Safe Streets for All (SS4A) program to develop projects that reduce road fatalities and serious injuries in accordance with Vision Zero principles.
 -  Supported the Active Transportation Plan (ATP) by identifying and analyzing key pedestrian and bicycle traffic locations using GIS and accessibility criteria, selecting park-adjacent intersections for multimodal study, and preparing demographic datasets to support equity-driven planning.
