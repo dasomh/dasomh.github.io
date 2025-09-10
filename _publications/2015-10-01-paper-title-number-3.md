@@ -3,7 +3,7 @@ title: "The spatial dynamics of urban vegetation and housing prices: Insights fr
 collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This study is currently under review and will be published soon.'
+excerpt: 'This study investigates how changes in urban vegetation—before and after the COVID-19 pandemic—affected housing prices across neighborhoods in the Chicago metropolitan area. Using OLS and Multiscale Geographically Weighted Regression (MGWR), the analysis highlights clear spatial disparities in how greenery influences housing values.'
 date: 2025-09-05
 venue: 'PLOS ONE'
 slidesurl: 'http://dasomh.github.io/files/240430Urban Vegetation Change and Its Impact on Housing Prices_Final.pdf'
