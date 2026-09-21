@@ -48,11 +48,15 @@ Facilitated housing supply screening for low-income youth, improving accessibili
 
 Selected Applied Research & Planning Projects
 ======
-* <strong>A Study of the Impact of Chicago L (Elevated train) Accessibility on Housing Prices</strong>, Oct 2023 – Dec 2023<br>
-<em>Presented at the Association of American Geographers Meeting, Hawaii.</em><br>
-This project rigorously assessed the varying impacts of proximity to Chicago's L train on housing prices contextualized by house characteristics. It sheds light on the dynamic interplay between public transport accessibility and real estate value, generating actionable insights for urban planning strategies.
-* <strong>Research on the Impact of COVID-19 on the Residential Environment</strong>, Jan 2024 – May 2024<br>
-This research analyzes the impact of COVID-19 on residential dynamics, focusing on how housing prices relate to property features and public transport. It identifies shifts in housing preferences and valuations, potentially reshaping urban housing market trends due to the pandemic.
+* <strong>Annual Level of Service Certification</strong>, Jun 2025 – Jul 2026<br>
+<em>Indiana Finance Authority (IFA)</em><br>
+Developing the 2026 annual Level of Service analysis for the Indiana Toll Road, including segment-level AADT/AADTT forecasting, 60th-highest-hour estimation, and volume-to-capacity-based LOS evaluation for mainline and ramp segments using permanent count data and Highway Capacity Manual–based methods. Report in preparation for submission to the Indiana Finance Authority.
+* <strong>Safe Streets and Roads for All (SS4A)</strong>, May 2024 – May 2025<br>
+<em>U.S. Department of Transportation (USDOT)</em><br>
+Developed the GIS- and data-driven safety analysis workflows underpinning Champaign County’s SS4A / Vision Zero planning efforts. Identified high-injury intersections and corridors across urban and rural Champaign County, evaluated crash patterns and infrastructure effectiveness, and produced decision-ready maps and analytic outputs used to prioritize safety investments.
+* <strong>Housing & Transportation Affordability and Accessibility Index</strong>, May 2024 – Dec 2024<br>
+<em>Illinois Department of Transportation (IDOT)</em><br>
+Developed key analytical components of a TAZ-level housing and transportation affordability and accessibility framework for Champaign County. Integrated local housing costs, transportation burdens, access scores, and affordability measures using property, rental, transit, travel-demand, land-use, and socioeconomic datasets, including regression-based estimation of auto ownership and VMT to support locally tailored policy and investment decisions.
 
 
 Publications
