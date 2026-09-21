@@ -46,7 +46,7 @@ Participated in the planning and implementation of a large-scale Transit-Oriente
 <em>Youth Housing Supply and Pilot Project Support, Intern, Jul 2016 – May 2018</em><br>
 Facilitated housing supply screening for low-income youth, improving accessibility to affordable housing.
 
-Projects
+Selected Applied Research & Planning Projects
 ======
 * <strong>A Study of the Impact of Chicago L (Elevated train) Accessibility on Housing Prices</strong>, Oct 2023 – Dec 2023<br>
 <em>Presented at the Association of American Geographers Meeting, Hawaii.</em><br>
