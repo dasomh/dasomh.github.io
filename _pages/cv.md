@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Real Estate Studies, Hanyang University, Feb 2026
+* Ph.D. in Real Estate Studies, Hanyang University, Feb 2026<br><em>Dissertation: Rail Stations and Housing Price Capitalization: Express, Heavy, and Light Rail in the Seoul Metropolitan Area.</em>
 * M.S. in Urban Planning (Sustainable Urban Management), University of Illinois at Urbana Champaign, 2024
 * M.S. in Real Estate Management, Hanyang University, 2018<br><em>Thesis: A Research on the Influences of the Ui-LRT(Light Rail Transit) on the Prices Surrounding Apartments.</em>
 * B.S. in Business Administration, Dongguk University, 2016
